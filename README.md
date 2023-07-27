@@ -1,4 +1,4 @@
-### Hi there 👋
+![IMG_3060](https://github.com/lydiacho/lydiacho/assets/81505421/34c9b462-98f3-43f3-a7fb-92fc2bd0737a)
 
 <!--
 **lydiacho/lydiacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
