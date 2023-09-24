@@ -43,8 +43,5 @@ TBD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lydiacho&langs_count=10&layout=compact&theme=cobalt)](https://github.com/lydiacho/lydiacho)
 
-### Algorithm Problem Solving (at BOJ, with python & javascript)
-TBD
-
 ## Resume
 [SeungHee's Resume](https://lydiacho.notion.site/SeungHee-s-Resume-65443598abb14fbcb09fb673fa26a961?pvs=4)
