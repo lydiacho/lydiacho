@@ -22,18 +22,16 @@
 
 ### Studying.
 
-<img src="https://img.shields.io/badge/Recoil-3578e5?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recoil-3578e5?style=flat-square&logo=React&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a> 
 
 ### Tools.
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
-### Activities
-
-TBD
 
 ### Github Activities
 
@@ -44,4 +42,4 @@ TBD
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lydiacho&langs_count=10&layout=compact&theme=cobalt)](https://github.com/lydiacho/lydiacho)
 
 ## Resume
-[SeungHee's Resume](https://lydiacho.notion.site/SeungHee-s-Resume-65443598abb14fbcb09fb673fa26a961?pvs=4)
+TBD
