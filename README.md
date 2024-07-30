@@ -6,7 +6,4 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lydiacho&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lydiacho&langs_count=5&layout=donut&theme=buefy)](https://github.com/lydiacho/lydiacho)
-
 </div>
