@@ -6,6 +6,8 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lydiacho&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+![](./profile-3d-contrib/profile-season-animate.svg)
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -14,6 +16,4 @@
     height="200"
   />
 </a>
-  
-
 </div>
