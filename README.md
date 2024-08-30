@@ -4,9 +4,7 @@
 
 <div align="center" valign="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lydiacho&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
-![](./profile-3d-contrib/profile-season-animate.svg)
+![Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lydiacho&theme=buefy)
 
 
 <a href="https://github.com/devxb/gitanimals">
