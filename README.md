@@ -3,9 +3,6 @@
 <br/>
 
 <div align="center" valign="center">
-  
-![Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lydiacho&theme=buefy)
-
 
 <a href="https://github.com/devxb/gitanimals">
   <img
