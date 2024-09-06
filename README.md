@@ -4,6 +4,9 @@
 
 <div align="center" valign="center">
 
+![Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lydiacho&theme=buefy)
+
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/lydiacho?pet-id=616521293205454757"
